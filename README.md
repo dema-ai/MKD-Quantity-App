@@ -1,3 +1,4 @@
+ HEAD
 \# Ethical Construction Quantity Takeoff App (Ethiopian Standards)
 
 
@@ -96,3 +97,6 @@ pip install -r requirements.txt
 
 python app/main.py
 
+# MKD-Quantity-App
+Mkd quantity app used for construction purpose.
+ 5f3a21181926cb2f9b64646a2e5cc4c9d4c0fc97
