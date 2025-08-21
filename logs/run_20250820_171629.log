@@ -1,0 +1,31 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20250820171629
+Username: DESKTOP-15JFH02\hp
+RunAs User: DESKTOP-15JFH02\hp
+Configuration Name: 
+Machine: DESKTOP-15JFH02 (Microsoft Windows NT 10.0.26100.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 7900
+PSVersion: 5.1.26100.4768
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.4768
+BuildVersion: 10.0.26100.4768
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+PS>TerminatingError(): "The term 'C:\Users\hp\Desktop\MKD Quantity App\venv\Scripts\Activate.ps1' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again."
+>> TerminatingError(): "The term 'C:\Users\hp\Desktop\MKD Quantity App\venv\Scripts\Activate.ps1' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again."
+The term 'C:\Users\hp\Desktop\MKD Quantity App\venv\Scripts\Activate.ps1' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+. : The term 'C:\Users\hp\Desktop\MKD Quantity App\venv\Scripts\Activate.ps1' is not recognized as the name of a
+cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify
+that the path is correct and try again.
+At C:\Users\hp\Desktop\MKD Quantity App\launch.ps1:11 char:3
++ . $venv
++   ~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\hp\Des...ts\Activate.ps1:String) [], ParentContainsErrorRecord
+   Exception
+    + FullyQualifiedErrorId : CommandNotFoundException
+
